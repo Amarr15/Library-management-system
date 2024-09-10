@@ -1,0 +1,14 @@
+C:\Users\Amar\source\repos\Library management system\bin\Debug\net6.0\Library management system.exe
+C:\Users\Amar\source\repos\Library management system\bin\Debug\net6.0\Library management system.deps.json
+C:\Users\Amar\source\repos\Library management system\bin\Debug\net6.0\Library management system.runtimeconfig.json
+C:\Users\Amar\source\repos\Library management system\bin\Debug\net6.0\Library management system.dll
+C:\Users\Amar\source\repos\Library management system\bin\Debug\net6.0\Library management system.pdb
+C:\Users\Amar\source\repos\Library management system\obj\Debug\net6.0\Library management system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amar\source\repos\Library management system\obj\Debug\net6.0\Library management system.AssemblyInfoInputs.cache
+C:\Users\Amar\source\repos\Library management system\obj\Debug\net6.0\Library management system.AssemblyInfo.cs
+C:\Users\Amar\source\repos\Library management system\obj\Debug\net6.0\Library management system.csproj.CoreCompileInputs.cache
+C:\Users\Amar\source\repos\Library management system\obj\Debug\net6.0\Library management system.dll
+C:\Users\Amar\source\repos\Library management system\obj\Debug\net6.0\refint\Library management system.dll
+C:\Users\Amar\source\repos\Library management system\obj\Debug\net6.0\Library management system.pdb
+C:\Users\Amar\source\repos\Library management system\obj\Debug\net6.0\Library management system.genruntimeconfig.cache
+C:\Users\Amar\source\repos\Library management system\obj\Debug\net6.0\ref\Library management system.dll
